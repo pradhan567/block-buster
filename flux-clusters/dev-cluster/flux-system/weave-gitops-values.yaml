@@ -1,0 +1,4 @@
+adminUser:
+  create: true
+  username: admin
+  passwordHash: admin
